@@ -6,7 +6,7 @@ The idea of defensive programming is based on **defensive driving**. In defensiv
 
 Defensive programming practices are often used where [high availability](https://en.wikipedia.org/wiki/High_availability), [safety](https://en.wikipedia.org/wiki/Safety), or [security](https://en.wikipedia.org/wiki/Computer_security) is needed.[3]
 
-<img src="http://www.pngall.com/wp-content/uploads/4/Security-Shield-PNG-File.png" alt="Defense Png & Free Defense.png Transparent Images #115086 - PNGio" style="zoom:11%;" />
+<img src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/shield.png" alt="Defense Png & Free Defense.png Transparent Images #115086 - PNGio" style="zoom:11%;" />
 
 Defensive programming is an approach to improve software and source code, in terms of: 
 
